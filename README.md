@@ -69,3 +69,9 @@ Available Properties
       screenshot.original.height
       screenshot.original.path
       screenshot.thumb.path
+
+
+Copyright
+---------
+
+Copyright (c) 2010 Jared Pace. See LICENSE for details.

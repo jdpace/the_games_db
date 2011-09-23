@@ -74,4 +74,4 @@ Available Properties
 Copyright
 ---------
 
-Copyright (c) 2010 Jared Pace. See LICENSE for details.
+Copyright (c) 2011 Jared Pace. See LICENSE for details.

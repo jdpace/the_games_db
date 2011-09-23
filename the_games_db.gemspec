@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = TheGamesDB::VERSION
   s.authors     = ["Jared Pace"]
   s.email       = ["jared@codeword.io"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/jdpace/the_games_db"
   s.summary     = %q{TheGamesDB.net API wrapper}
   s.description = %q{Ruby API Wrapper for TheGamesDB.net}
 

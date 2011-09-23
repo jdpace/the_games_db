@@ -4,12 +4,12 @@ require "the_games_db/version"
 
 Gem::Specification.new do |s|
   s.name        = "the_games_db"
-  s.version     = TheGamesDb::VERSION
+  s.version     = TheGamesDB::VERSION
   s.authors     = ["Jared Pace"]
-  s.email       = ["jared@codewordstudios.com"]
+  s.email       = ["jared@codeword.io"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{TheGamesDB.net API wrapper}
+  s.description = %q{Ruby API Wrapper for TheGamesDB.net}
 
   s.rubyforge_project = "the_games_db"
 
@@ -18,7 +18,13 @@ Gem::Specification.new do |s|
   s.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
   s.require_paths = ["lib"]
 
-  # specify any dependencies here; for example:
-  # s.add_development_dependency "rspec"
-  # s.add_runtime_dependency "rest-client"
+  # Dependencies
+  s.add_dependency 'typhoeus', ['~> 0.2.4']
+  s.add_dependency 'nokogiri', ['~> 1.4.6']
+  s.add_dependency 'sax-machine', ['~> 0.0.20']
+
+  # Developmnet Dependencies
+  s.add_development_dependency 'rspec', ['~> 2.6']
+  s.add_development_dependency 'mocha', ['~> 0.9.12']
+  s.add_development_dependency 'guard-rspec', ['~> 0.4']
 end

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+  <Game>
+    <id>6859</id>
+    <GameTitle>New Super Mario Bros.</GameTitle>
+    <Platform>Nintendo DS</Platform>
+  </Game>
+  <Game>
+    <id>170</id>
+    <GameTitle>New Super Mario Bros. Wii</GameTitle>
+    <ReleaseDate>11/20/2009</ReleaseDate>
+    <Platform>Nintendo Wii</Platform>
+  </Game>
+    <Game>
+    <id>140</id>
+    <GameTitle>Super Mario Bros.</GameTitle>
+    <ReleaseDate>09/13/1985</ReleaseDate>
+    <Platform>Nintendo Entertainment System (NES)</Platform>
+  </Game>
+  <Game>
+  <id>3727</id>
+  <GameTitle>Super Mario Bros.</GameTitle>
+  <Platform>Nintendo Gameboy Advance</Platform>
+  </Game>
+  <Game>
+    <id>6410</id>
+    <GameTitle>Super Mario Bros. / Duck Hunt</GameTitle>
+    <ReleaseDate>07/26/1988</ReleaseDate>
+    <Platform>Nintendo Entertainment System (NES)</Platform>
+  </Game>
+  <Game>
+    <id>171</id>
+    <GameTitle>Super Mario Bros. 2</GameTitle>
+    <ReleaseDate>10/01/1988</ReleaseDate>
+    <Platform>Nintendo Entertainment System (NES)</Platform>
+  </Game>
+  <Game>
+    <id>112</id>
+    <GameTitle>Super Mario Bros. 3</GameTitle>
+    <ReleaseDate>10/23/1988</ReleaseDate>
+    <Platform>Nintendo Entertainment System (NES)</Platform>
+  </Game>
+</Data>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+  <baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+  <Game>
+    <id>140</id>
+    <GameTitle>Super Mario Bros.</GameTitle>
+    <Platform>Nintendo Entertainment System (NES)</Platform>
+    <ReleaseDate>09/13/1985</ReleaseDate>
+    <Overview>The player takes the role of Mario, or in the case of a second player, Mario's brother Luigi. The ultimate objective is to race through the worlds of the Mushroom Kingdom, evade or eliminate Bowser's forces, and save the Princess</Overview>
+    <ESRB>E - Everyone</ESRB>
+    <Genres>
+      <genre>Adventure</genre>
+      <genre>Platform</genre>
+    </Genres>
+    <Players>2</Players>
+    <Co-op>No</Co-op>
+    <Publisher>Nintendo</Publisher>
+    <Developer>Nintendo</Developer>
+    <Actors>N/A</Actors>
+    <Images>
+      <fanart>
+        <original width="1920" height="1080">fanart/original/140-1.jpg</original>
+        <vignette width="1920" height="1080">fanart/vignette/140-1.jpg</vignette>
+        <thumb>fanart/thumb/140-1.jpg</thumb>
+      </fanart>
+      <fanart>
+        <original width="1920" height="1080">fanart/original/140-10.jpg</original>
+        <vignette width="1920" height="1080">fanart/vignette/140-10.jpg</vignette>
+        <thumb>fanart/thumb/140-10.jpg</thumb>
+      </fanart>
+      <fanart>
+        <original width="1920" height="1080">fanart/original/140-2.jpg</original>
+        <vignette width="1920" height="1080">fanart/vignette/140-2.jpg</vignette>
+        <thumb>fanart/thumb/140-2.jpg</thumb>
+      </fanart>
+      <fanart>
+        <original width="1920" height="1080">fanart/original/140-3.jpg</original>
+        <vignette width="1920" height="1080">fanart/vignette/140-3.jpg</vignette>
+        <thumb>fanart/thumb/140-3.jpg</thumb>
+      </fanart>
+      <fanart>
+        <original width="1920" height="1080">fanart/original/140-4.jpg</original>
+        <vignette width="1920" height="1080">fanart/vignette/140-4.jpg</vignette>
+        <thumb>fanart/thumb/140-4.jpg</thumb>
+      </fanart>
+      <fanart>
+        <original width="1920" height="1080">fanart/original/140-5.jpg</original>
+        <vignette width="1920" height="1080">fanart/vignette/140-5.jpg</vignette>
+        <thumb>fanart/thumb/140-5.jpg</thumb>
+      </fanart>
+      <fanart>
+        <original width="1920" height="1080">fanart/original/140-6.jpg</original>
+        <vignette width="1920" height="1080">fanart/vignette/140-6.jpg</vignette>
+        <thumb>fanart/thumb/140-6.jpg</thumb>
+      </fanart>
+      <fanart>
+        <original width="1920" height="1080">fanart/original/140-7.jpg</original>
+        <vignette width="1920" height="1080">fanart/vignette/140-7.jpg</vignette>
+        <thumb>fanart/thumb/140-7.jpg</thumb>
+      </fanart>
+      <fanart>
+        <original width="1920" height="1080">fanart/original/140-8.jpg</original>
+        <vignette width="1920" height="1080">fanart/vignette/140-8.jpg</vignette>
+        <thumb>fanart/thumb/140-8.jpg</thumb>
+      </fanart>
+      <fanart>
+        <original width="1920" height="1080">fanart/original/140-9.jpg</original>
+        <vignette width="1920" height="1080">fanart/vignette/140-9.jpg</vignette>
+        <thumb>fanart/thumb/140-9.jpg</thumb>
+      </fanart>
+      <boxart side="front" width="709" height="1000">boxart/original/front/140-1.jpg</boxart>
+      <boxart side="back" width="1532" height="2100">boxart/original/back/140-2.jpg</boxart>
+      <banner width="760" height="140">graphical/140-g.jpg</banner>
+      <banner width="760" height="140">graphical/140-g2.jpg</banner>
+      <banner width="760" height="140">graphical/140-g3.jpg</banner>
+      <screenshot>
+        <original width="256" height="232">screenshots/140-1.jpg</original>
+        <thumb>screenshots/thumb/140-1.jpg</thumb>
+      </screenshot>
+    </Images>
+  </Game>
+</Data>

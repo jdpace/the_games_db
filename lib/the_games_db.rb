@@ -1,5 +1,11 @@
-require "the_games_db/version"
+require 'typhoeus'
+require 'sax-machine'
 
-module TheGamesDb
-  # Your code goes here...
-end
+require 'the_games_db/version'
+require 'the_games_db/exception'
+require 'the_games_db/image/banner'
+require 'the_games_db/image/boxart'
+require 'the_games_db/image/fanart'
+require 'the_games_db/image/screenshot'
+require 'the_games_db/game'
+require 'the_games_db/feed'

@@ -1,3 +1,3 @@
-module TheGamesDb
+module TheGamesDB
   VERSION = "0.0.1"
 end

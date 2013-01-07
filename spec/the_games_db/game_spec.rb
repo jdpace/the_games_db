@@ -38,7 +38,7 @@ describe TheGamesDB::Game do
       it 'raises a not found error' do
         expect do
           TheGamesDB::Game.find(-1)
-        end.should raise_error(TheGamesDB::Exception::GameNotFound)
+        end.to raise_error(TheGamesDB::Exception::GameNotFound)
       end
     end
   end

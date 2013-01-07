@@ -32,7 +32,7 @@ describe TheGamesDB::Feed do
       it 'raises an exception' do
         expect do
           TheGamesDB::Feed.fetch('GetGame.php', :id => 140)
-        end.should raise_error(TheGamesDB::Exception::BadResponse)
+        end.to raise_error(TheGamesDB::Exception::BadResponse)
       end
     end
 
@@ -49,7 +49,7 @@ describe TheGamesDB::Feed do
       it 'raises an exception' do
         expect do
           TheGamesDB::Feed.fetch('GetGame.php', :id => 140)
-        end.should raise_error(TheGamesDB::Exception::BadResponse)
+        end.to raise_error(TheGamesDB::Exception::BadResponse)
       end
     end
   end

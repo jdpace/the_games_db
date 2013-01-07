@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'sax-machine', ['~> 0.0.20']
 
   # Developmnet Dependencies
+  s.add_development_dependency 'rake', ['~> 10.0']
   s.add_development_dependency 'rspec', ['~> 2.6']
   s.add_development_dependency 'mocha', ['~> 0.9.12']
   s.add_development_dependency 'guard-rspec', ['~> 0.4']

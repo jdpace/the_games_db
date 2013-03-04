@@ -34,7 +34,7 @@ front_boxart.url
 Available Properties
 --------------------
 
-    game.id
+    game.gbd_id
     game.title
     game.overview
     game.platform

@@ -52,7 +52,7 @@ describe TheGamesDB::Game do
     let(:game) { TheGamesDB::Game.find 140 }
 
     it 'correctly parses the values' do
-      game.id.should == "140"
+      game.gbd_id.should == "140"
       game.title.should == "Super Mario Bros."
       game.overview.should =~ /^The player takes the role of Mario/
       game.platform.should == "Nintendo Entertainment System (NES)"

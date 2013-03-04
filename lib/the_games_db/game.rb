@@ -5,7 +5,7 @@ module TheGamesDB
     include SAXMachine
 
     parent   :feed
-    element  :id
+    element  :id           :as => :gbd_id
     element  :GameTitle,   :as => :title
     element  :Overview,    :as => :overview
     element  :Platform,    :as => :platform

@@ -19,13 +19,13 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   # Dependencies
-  s.add_dependency 'typhoeus', ['~> 0.2.4']
-  s.add_dependency 'nokogiri', ['~> 1.4.6']
+  s.add_dependency 'typhoeus', ['~> 0.2']
+  s.add_dependency 'nokogiri', ['~> 1.4']
   s.add_dependency 'sax-machine', ['~> 0.0.20']
 
   # Developmnet Dependencies
   s.add_development_dependency 'rake', ['~> 10.0']
   s.add_development_dependency 'rspec', ['~> 2.6']
-  s.add_development_dependency 'mocha', ['~> 0.9.12']
+  s.add_development_dependency 'mocha', ['~> 0.9']
   s.add_development_dependency 'guard-rspec', ['~> 0.4']
 end

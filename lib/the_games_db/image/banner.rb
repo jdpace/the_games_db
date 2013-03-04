@@ -3,7 +3,7 @@ module TheGamesDB
     class Banner
       include SAXMachine
 
-      parent :game
+      ancestor :game
       value :path
       attribute :width
       attribute :height

@@ -5,7 +5,7 @@ module TheGamesDB
     class Fanart
       include SAXMachine
 
-      parent  :game
+      ancestor :game
       element :original, :class => TheGamesDB::Image::Format
       element :vignette, :class => TheGamesDB::Image::Format
       element :thumb,    :class => TheGamesDB::Image::Format

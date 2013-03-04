@@ -5,7 +5,7 @@ module TheGamesDB
     class Screenshot
       include SAXMachine
 
-      parent  :game
+      ancestor :game
       element :original, :class => TheGamesDB::Image::Format
       element :thumb,    :class => TheGamesDB::Image::Format
     end

@@ -3,7 +3,7 @@ module TheGamesDB
     class Format
       include SAXMachine
 
-      parent :image
+      ancestor :image
       value :path
       attribute :width
       attribute :height

@@ -3,7 +3,7 @@ module TheGamesDB
     class Boxart
       include SAXMachine
 
-      parent :game
+      ancestor :game
       value :path
       attribute :side
       attribute :width

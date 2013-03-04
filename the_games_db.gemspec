@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   # Dependencies
   s.add_dependency 'typhoeus', ['~> 0.2']
   s.add_dependency 'nokogiri', ['~> 1.4']
-  s.add_dependency 'sax-machine', ['~> 0.0.20']
+  s.add_dependency 'sax-machine', ['~> 0.1']
 
   # Developmnet Dependencies
   s.add_development_dependency 'rake', ['~> 10.0']

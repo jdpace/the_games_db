@@ -1,7 +1,7 @@
 require 'pathname'
 require 'rspec'
 require 'rspec/autorun'
-require 'mocha'
+require 'mocha/api'
 
 SpecRoot = Pathname.new File.expand_path('..', __FILE__)
 $LOAD_PATH.unshift(SpecRoot)

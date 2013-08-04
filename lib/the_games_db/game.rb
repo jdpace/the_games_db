@@ -40,7 +40,7 @@ module TheGamesDB
       return unless @release_date
 
       month, day, year = @release_date.split('/').map(&:to_i)
-      Date.civil year, month, day
+      Date.civil year.to_i, month.to_i, day.to_i
     end
 
   end

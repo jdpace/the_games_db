@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>15</id>
+	<Platform>Microsoft Xbox 360</Platform>
+	<console>http://www.youtube.com/watch?v=15.png</console>
+	<controller>http://www.youtube.com/watch?v=15.png</controller>
+	<overview>The Xbox 360 is the second video game console produced by Microsoft and the successor to the Xbox. The Xbox 360 competes with Sony&amp;#039;s PlayStation 3 and Nintendo&amp;#039;s Wii as part of the seventh generation of video game consoles. As of September 30, 2011, 57.6 million Xbox 360 consoles have been sold worldwide.
+
+Several major features of the Xbox 360 are its integrated Xbox Live service that allows players to compete online, download arcade games, game demos, trailers, TV shows, music and movies and its Windows Media Center multimedia capabilities. The Xbox 360 also offers region specific access to third-party media streaming services such as Netflix and ESPN in the US or Sky Go in the UK.</overview>
+	<developer>Microsoft</developer>
+	<manufacturer>Microsoft</manufacturer>
+	<cpu>3.2 GHz PowerPC Tri-Core Xenon</cpu>
+	<memory>512 MB of GDDR3 RAM clocked at 700 MHz</memory>
+	<graphics>500 MHz ATI Xenos</graphics>
+	<sound>Dolby Digital 5.1 (TOSLINK and HDMI)</sound>
+	<display>1920x1080</display>
+	<media>Disc</media>
+	<maxcontrollers>4</maxcontrollers>
+	<Rating>7.3333</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/15-1.jpg</original>
+			<thumb>platform/fanart/thumb/15-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/15-2.jpg</original>
+			<thumb>platform/fanart/thumb/15-2.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/15-3.jpg</original>
+			<thumb>platform/fanart/thumb/15-3.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/15-4.jpg</original>
+			<thumb>platform/fanart/thumb/15-4.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/15-5.jpg</original>
+			<thumb>platform/fanart/thumb/15-5.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/15-6.jpg</original>
+			<thumb>platform/fanart/thumb/15-6.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/15-7.jpg</original>
+			<thumb>platform/fanart/thumb/15-7.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="1524" height="2162">platform/boxart/15-1.jpg</boxart>
+		<banner width="760" height="140">platform/banners/15-1.jpg</banner>		<consoleart>platform/consoleart/15.png</consoleart>
+		<controllerart>platform/controllerart/15.png</controllerart>
+	</Images>
+</Platform>
+</Data>

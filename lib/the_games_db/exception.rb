@@ -13,5 +13,11 @@ module TheGamesDB
       end
     end
 
+    class PlatformNotFound < StandardError
+      def initialize(id)
+        super "Platform Not Found: id = #{id}"
+      end
+    end
+
   end
 end

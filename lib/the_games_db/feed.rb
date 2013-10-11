@@ -7,6 +7,7 @@ module TheGamesDB
 
     element  :baseImgUrl, :as => :base_image_url
     elements :Game, :as => :games, :class => TheGamesDB::Game
+    elements :Platform, :as => :platforms, :class => TheGamesDB::Platform
 
     def self.fetch_and_parse(path, params={})
       parse fetch(path, params)

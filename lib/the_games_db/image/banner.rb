@@ -4,6 +4,7 @@ module TheGamesDB
       include SAXMachine
 
       ancestor :game
+      ancestor :platform
       value :path
       attribute :width
       attribute :height
